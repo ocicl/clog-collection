@@ -1,0 +1,9 @@
+* clog-collection
+
+A set of CLOG Plugins
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/jingtaozf/clog-collection |
+| commit  | 23fa09b                                          |
+| systems | clog-collection                                  |
+|---------+--------------------------------------------------|
