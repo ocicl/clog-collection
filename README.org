@@ -4,6 +4,6 @@ A set of CLOG Plugins
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/jingtaozf/clog-collection |
-| commit  | e5cd113                                          |
+| commit  | 0b2f3d5                                          |
 | systems | clog-collection                                  |
 |---------+--------------------------------------------------|
